@@ -46,3 +46,4 @@ This will also analyze unit test code coverage info and output a report to
   * protected whoami?
 * Jasmine instead of mocha?
 * Better coverage numbers, tools.
+* Update rangle-starter CLI, README.
